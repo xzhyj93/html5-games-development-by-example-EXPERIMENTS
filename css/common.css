@@ -17,7 +17,6 @@ header{
     width: 800px;
     height: 742px;
     margin: 30px auto;
-    border: 1px solid red;
     position: relative;
 }
 canvas{
@@ -28,7 +27,6 @@ canvas{
     top: 0;
     left: 0;
     /*margin-left: -400px;*/
-    border: 1px solid black;
 }
 
 #game{
